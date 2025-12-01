@@ -6,10 +6,10 @@ In this project, we are tasked to train different text classification models on 
 
 ## Objectives
 
-- to obtain and use existing raw datasets from reputable and credible resources
-- to clean and preprocess raw datasets
-- to train and test different text classification models (classical and deep learning) on the preprocessed dataset
-- to analyze and evaluate the performance of different models
+- To obtain and use existing raw datasets from reputable and credible resources.
+- To clean and preprocess the obtained raw datasets.
+- To train and test different text classification models (classical and deep learning) on the preprocessed dataset.
+- To analyze and evaluate the performance of different models.
 
 ## Setup:
 

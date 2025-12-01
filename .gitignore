@@ -2,6 +2,7 @@ venv/
 
 # ignore big files from src
 src/deep_models/unesco_results/distilbert_results/
+src/deep_models/uci_results/distilbert_results/
 src/shared/models/
 src/shared/tokenizers/
 src/shared/vectorizers/
