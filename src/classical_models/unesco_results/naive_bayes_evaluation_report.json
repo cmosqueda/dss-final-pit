@@ -1,0 +1,5 @@
+{
+    "accuracy": 0.7370766488413547,
+    "f1_score": 0.7499167543070102,
+    "classification_report": "                 precision    recall  f1-score   support\n\n     Conspiracy       0.46      0.61      0.53       194\n    Fake remedy       0.52      0.82      0.64       101\nFalse reporting       0.89      0.76      0.82       827\n\n       accuracy                           0.74      1122\n      macro avg       0.62      0.73      0.66      1122\n   weighted avg       0.78      0.74      0.75      1122\n"
+}

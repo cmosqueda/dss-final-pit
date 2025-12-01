@@ -1,0 +1,5 @@
+{
+    "accuracy": 0.9401061410159212,
+    "f1_score": 0.9259968744520495,
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.95      0.99      0.97      1230\n           1       0.53      0.29      0.38        31\n           2       0.59      0.17      0.27        58\n\n    accuracy                           0.94      1319\n   macro avg       0.69      0.49      0.54      1319\nweighted avg       0.92      0.94      0.93      1319\n"
+}
