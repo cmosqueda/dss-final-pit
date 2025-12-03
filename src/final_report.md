@@ -49,8 +49,8 @@ The group decided to explore two different types of machine learning classificat
 **Deep Learning Models:**
 
 - Convolutional Neural Network (in Text)
+- Recurrent Neural Network
 - DistilBERT (Pre-trained Transformer)
-- Bidirectional Long Short Term Memory
 
 ## Evaluation Metrics
 
@@ -104,7 +104,7 @@ Fake remedy, conspiracy - 1
 
 ## UCI Covid19-Lies
 
-- **Link:** [UCINLP Covid19-Lies](https://github.com/ucinlp/covid19-data?fbclid=IwY2xjawOWJLpleHRuA2FlbQIxMABicmlkETFreWZKcmdmZG5icHNQNXVpc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm6w1xZNzH_oMufcfadEBPxyGC-XRBQUoJm8O8NH9yziIIq6Diim5_-4nqlz_aem_aLfdx-XOS7RoDItT-uRKvQ)
+- **Link:** [UCINLP Covid19-Lies](httpsm://github.com/ucinlp/covid19-data?fbclid=IwY2xjawOWJLpleHRuA2FlbQIxMABicmlkETFreWZKcmdmZG5icHNQNXVpc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm6w1xZNzH_oMufcfadEBPxyGC-XRBQUoJm8O8NH9yziIIq6Diim5_-4nqlz_aem_aLfdx-XOS7RoDItT-uRKvQ)
 - **About:** Misinformation dataset about misconceptions of COVID 19 collected on X (formerly Twitter).
 - **Size:** 6591 rows
 - **Classification Type:** Multiclass
